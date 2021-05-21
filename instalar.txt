@@ -1,0 +1,13 @@
+React Native Elements
+
+npm install react-native-elements
+
+React Native Elements Icons
+
+npm install react-native-vector-icons
+
+
+
+Instalar axios-
+
+npm i axios
